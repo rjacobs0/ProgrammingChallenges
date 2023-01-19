@@ -20,13 +20,5 @@ Use this from the cmd in csv-combiner directory for csv-combinerSmaller. Of cour
 * Your code should be testable by a CI/CD process. 
 * Unit tests should be included.
 
-## Example
-This example is provided as one of the ways your code should run. It should also be
-able to handle more than two inputs, inputs with different columns, and very large (> 2GB) 
-files gracefully.
-
-```
-$ ./csv-combiner.php ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
-```
 
 
